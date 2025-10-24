@@ -14,23 +14,23 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "8482899552:AAEJiIMdw6BRFFRhLaCfYTq0sVKSk3vOmGQ"
         },
         "APP_ID": {
             "description": "Your app id from my.telegram.org",
-            "value": ""
+            "value": "27082105"
         },
         "API_HASH": {
             "API_HASH": "Your api hash from my.telegram.org",
-            "value": ""
+            "value": "1353d82bb7a60f17ea25e81729ccd390"
         },
         "FROM_CHANNEL": {
             "description": "The ID of the main channel from where posts have to be copied.",
-            "value": ""
+            "value": "1003017202334"
         },
         "TO_CHANNEL": {
             "description": "The ID of the channel to which the posts are to be sent.",
-            "value": ""
+            "value": "-1003111004423"
         }
     },
     "buildpacks": [
